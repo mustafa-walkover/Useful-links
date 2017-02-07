@@ -320,6 +320,12 @@ bootstrap plugins
 http://getuikit.com/docs/upload.html
 http://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitter-bootstrap/
 =========================================================================
+
+
+Live search plugin 
+http://vdw.github.io/HideSeek/
+=========================================================================
+
 typerhead (search plugin for input)
 
 http://twitter.github.io/typeahead.js/
